@@ -29,3 +29,18 @@ h1 {
     font-size: 24px;
     font-weight: bold;
 }
+
+.knopf1 {
+    color: #FFFFFF;
+    background-color: #000000;
+}
+
+.knopf2{
+    background-color: yellow;
+}
+
+.knopf1,
+.knopf2 {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
